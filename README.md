@@ -1,7 +1,7 @@
 <!-- Rock-Paper-Scissors Game README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,F97316,10B981&height=120&section=header&text=Rock%20Paper%20Scissors%20Game&fontSize=36&fontAlignY=35&fontColor=ffffff" alt="header wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Rock%20Paper%20Scissors%20Game&fontSize=36&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -73,6 +73,6 @@ rock-paper-scissors/
 
 ---
 
-<p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,F97316,10B981&height=100&section=footer"/> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18A0FB,4FD1A5,F64F59,FAD961&height=100&section=footer"/>
 </p>
