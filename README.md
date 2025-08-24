@@ -1,74 +1,78 @@
-# Rock-Paper-Scissors Game
+<!-- Rock-Paper-Scissors Game README -->
 
-A simple and fun **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**. The user plays against the computer, and the scores are updated dynamically.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,F97316,10B981&height=120&section=header&text=Rock%20Paper%20Scissors%20Game&fontSize=36&fontAlignY=35&fontColor=ffffff" alt="header wave"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Game-Project-blueviolet?style=for-the-badge"/>
+</p>
 
 ---
 
-## Features
+## 🎮 Overview
+A **classic Rock-Paper-Scissors game** built using **HTML, CSS, and JavaScript**.  
+Play against the computer, track your scores in real-time, and enjoy a smooth, colorful interface.
 
-*  Interactive UI with hover effects.
-*  Computer generates random choices.
-*  Scoreboard to track User vs Bot.
-*  Responsive design.
-*  Real-time results with instant feedback.
+---
+
+## ✨ Features
+-  **Click to Play** – Choose Rock, Paper, or Scissors  
+-  **Smart Bot** – Computer picks randomly  
+-  **Scoreboard** – Live tracking of your wins and losses  
+-  **Interactive UI** – With colors and result highlights  
+-  **Lightweight & Responsive** – Runs on any device  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5** → Game layout  
+- **CSS3** → Styles & design  
+- **JavaScript (ES6)** → Game logic, DOM updates  
+
+---
+
+## 🚀 Getting Started
+   
+   Clone the repository and open the project:
+
+# Clone the repo
+
+```bash
+git clone https://github.com/your-username/rock-paper-scissors.git
+```
+
+# Go inside project folder
+ * cd rock-paper-scissors
+
+# Run in browser
+ * start index.html
 
 ---
 
 ## 📂 Project Structure
 
+```bash
+rock-paper-scissors/
+│── index.html   # Main game page
+│── style.css    # Styling
+│── app.js       # Game logic
+└── images/      # Game assets
 ```
-├── index.html   # Main HTML file
-├── style.css    # Styling (CSS)
-├── app.js       # Game logic (JavaScript)
-└── images/      # Contains rock, paper, and scissors images
-```
 
 ---
 
-## How to Play
+## 📸 Preview
 
-1. Open `index.html` in your browser.
-2. Click on Rock, Paper, or Scissors.
-3. Computer will make a random move.
-4. Result will be displayed instantly with updated scores.
-
----
-
-## Tech Stack
-
-* **HTML5** → Structure
-* **CSS3** → Styling
-* **JavaScript (ES6)** → Game logic
+<p align="center"> 
+<img src="images/demo.png" alt="Game Preview" width="600"/> 
+</p>
 
 ---
 
-## 📸 Screenshots
-
-![Game demo](/images/demo.png)
-
----
-
-## Future Enhancements
-
-* Add sound effects for win/lose.
-* Reset button for scores.
-* Multiplayer mode (Player vs Player).
-* High-score tracker with local storage.
-
----
-
-## Setup Instructions
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   ```
-2. Navigate to the folder:
-
-   ```bash
-   cd rock-paper-scissors
-   ```
-3. Open `index.html` in your browser and start playing!
-
----
+<p align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,F97316,10B981&height=100&section=footer"/> 
+</p>
