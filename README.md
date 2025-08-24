@@ -37,19 +37,17 @@ Play against the computer, track your scores in real-time, and enjoy a smooth, c
 
 ## 🚀 Getting Started
    
-   Clone the repository and open the project:
+Clone the repository and open the project:
 
-- **Clone the repo**
+**Clone the repo**
+- git clone https://github.com/your-username/rock-paper-scissors.git
 
-```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-```
 
-- **Go inside project folder**
- cd rock-paper-scissors
+**Go inside project folder**
+- cd rock-paper-scissors
 
-- **Run in browser**
- start index.html
+**Run in browser**
+- start index.html
 
 ---
 
