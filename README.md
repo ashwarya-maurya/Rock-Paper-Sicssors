@@ -46,10 +46,10 @@ git clone https://github.com/your-username/rock-paper-scissors.git
 ```
 
 - **Go inside project folder**
- * cd rock-paper-scissors
+ cd rock-paper-scissors
 
 - **Run in browser**
- * start index.html
+ start index.html
 
 ---
 
