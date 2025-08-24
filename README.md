@@ -40,8 +40,9 @@ Play against the computer, track your scores in real-time, and enjoy a smooth, c
 Clone the repository and open the project:
 
 **Clone the repo**
-- git clone https://github.com/your-username/rock-paper-scissors.git
-
+```bash
+git clone https://github.com/ashwarya-maurya/rock-paper-scissors.git
+```
 
 **Go inside project folder**
 - cd rock-paper-scissors
